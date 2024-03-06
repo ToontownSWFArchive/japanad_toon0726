@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="142.25px" width="446.15px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 296.15, 72.25)">
+    <use height="140.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -150.0, -70.0)" width="300.0" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 150.0, 70.0)">
+      <path d="M150.0 -70.0 L150.0 70.0 -150.0 70.0 -150.0 -70.0 150.0 -70.0" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 -70.0 L150.0 -50.1 -150.0 -50.1 -150.0 -70.0 150.0 -70.0" fill="#ffd400" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 43.6 L-150.0 43.6 -150.0 34.65 150.0 34.65 150.0 43.6" fill="#ffd400" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 29.5 L-150.0 29.5 -150.0 20.6 150.0 20.6 150.0 29.5" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 -10.35 L-150.0 -10.35 -150.0 -12.25 150.0 -12.25 150.0 -10.35" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 -18.5 L-150.0 -18.5 -150.0 -32.2 150.0 -32.2 150.0 -18.5" fill="#ffd400" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 61.4 L-150.0 61.4 -150.0 59.85 150.0 59.85 150.0 61.4" fill="#ffd400" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 -39.65 L-150.0 -39.65 -150.0 -44.1 150.0 -44.1 150.0 -39.65" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 13.8 L-150.0 13.8 -150.0 11.55 150.0 11.55 150.0 13.8" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 48.5 L-150.0 48.5 -150.0 46.25 150.0 46.25 150.0 48.5" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 39.9 L-150.0 39.9 -150.0 38.35 150.0 38.35 150.0 39.9" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 -55.95 L-150.0 -55.95 -150.0 -57.55 150.0 -57.55 150.0 -55.95" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M150.0 6.1 L-150.0 6.1 -150.0 2.75 150.0 2.75 150.0 6.1" fill="#ffd400" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <linearGradient gradientTransform="matrix(0.0, -0.0854, 0.0854, 0.0, 0.0, 0.0)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffffff"/>
+      <stop offset="0.6823529411764706" stop-color="#fff7ae"/>
+      <stop offset="1.0" stop-color="#ffe605"/>
+    </linearGradient>
+  </defs>
+</svg>
